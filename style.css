@@ -1,7 +1,8 @@
-li {
-    width: 20px;
-    height: 20px;
+li, .food {
+    width: 100px;
+    background-color: aquamarine;
+    height: 10px;
     padding: 10px;
     margin: 10px;
-    border: solid 20px black;
+    border: solid 2px black;
 }
